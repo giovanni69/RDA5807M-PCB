@@ -1,6 +1,6 @@
 # RDA5807M-PCB
 È una semplice scheda per il modulo radio RDA5807M.
-Qui potete trovare il datasheet del RDA5087M: http://cxem.net/tuner/files/tuner84_RDA5807M_datasheet_v1.pdf
+[Qui](http://cxem.net/tuner/files/tuner84_RDA5807M_datasheet_v1.pdf) potete trovare il datasheet del RDA5087M: http://cxem.net/tuner/files/tuner84_RDA5807M_datasheet_v1.pdf
 Questo PCB è stato progettato con Eagle. 
 Per i connettori di prototipazione, ho utilizzato dei terminali a vite con passo da 5,08 mm.
 
